@@ -11,6 +11,6 @@ exec autoexec.cfg
 //
 stuffcmds
 
-hostname "Half-Life 2 Sandbox"
+hostname "Hotline Moscow"
 
 mp_forcerespawn 0
