@@ -1,5 +1,11 @@
 Hotline Moscow, contrary to what it's name suggests, is more that just a small tactical shooter.
 
+Tasklist:
+1. Storyboard/layout design (I have started work in sketchup)
+2. Mapping
+3. Weapon design
+Way Later. Modelling  
+
 Hotline Moscow is based off of:
 
 Half-Life 2: Sandbox
